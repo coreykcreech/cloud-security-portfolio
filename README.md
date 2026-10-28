@@ -28,7 +28,7 @@ Built in a 5-day sprint against an expiring $200 Azure credit - same defense-in-
 
 | # | Project | Status | Stack |
 |---|---------|--------|-------|
-| 1 | Secure Network Foundation (VNet/NSGs) | In progress | Terraform, Azure VNet/NSG |
+| 1 | [Secure Network Foundation (VNet/NSGs)](./azure-01-network-terraform) | Complete | Terraform, Azure VNet/NSG, Network Watcher, Azure Bastion |
 | 2 | Identity (Entra ID RBAC, Conditional Access, PIM) | Planned | Microsoft Entra ID |
 | 3 | Detection & Response | Planned | Microsoft Sentinel, Log Analytics, Logic Apps |
 | 4 | CIS Azure Foundations Benchmark Audit | Planned | Microsoft Defender for Cloud, Azure Policy |
